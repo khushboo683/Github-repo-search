@@ -1,13 +1,11 @@
-# Rainbow
-Weather and air quality application.
+# GitHub Repo Search
+
 
 
  ### Features
 -------------------------------------------------------------------------------------------------------------
-- Check current weather of any location.
-- Know sunrise and sunset time.
-- Check air quality of searched location.
-- Know air composition of the location.
+- Search public repos of GitHub
+- Sort them on the basis of number of stars, name, created_at, updated_at, score and watcher count.
 
 
 
@@ -28,4 +26,4 @@ Weather and air quality application.
 ### Things used to make the Project
 -------------------------------------------------------------------------------------------------------------
 - [React](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- [Material UI](https://mui.com/material-ui/)
