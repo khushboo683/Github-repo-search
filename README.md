@@ -16,6 +16,23 @@
 
 
 
+## How to Start Project
+
+Follow these steps to set up and run the project on your local machine.
+
+### Prerequisites
+
+- Node.js (version v16.20.2)
+- npm (version 8.19.4)
+- Git
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/khushboo683/Github-repo-search.git
+   npm install
+   npm start
 
 
 
