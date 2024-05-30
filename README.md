@@ -14,7 +14,8 @@
 ## Glance of site- 
 ![Screenshot](./Gif/project.gif?raw=true "Screenshot")
 
-
+## View deployed site-
+https://search-repo683.netlify.app
 
 ## How to Start Project
 
